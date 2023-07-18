@@ -93,9 +93,9 @@ sh
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Musong Ernest**
+👤 **Olanrewaju Oduola**
 
-- GitHub: [@ernestmusong](https://github.com/david-lanzz)
+- GitHub: [@Olanrewaju Oduola](https://github.com/david-lanzz)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
