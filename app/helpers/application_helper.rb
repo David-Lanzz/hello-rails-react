@@ -1,3 +1,0 @@
-# Helpers
-module ApplicationHelper
-end
